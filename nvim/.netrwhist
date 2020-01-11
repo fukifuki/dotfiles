@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/rade/Development/learning/js'
+let g:netrw_dirhist_6='/home/rade/Development'
+let g:netrw_dirhist_5='/home/rade/.config'
+let g:netrw_dirhist_4='/home/rade/lionell-dotfiles/.dotfiles/xresources/.Xresources.d'
+let g:netrw_dirhist_3='/home/rade/lionell-dotfiles/.dotfiles/i3/.config/i3'
+let g:netrw_dirhist_2='/home/rade/lionell-dotfiles/.dotfiles/i3/.config/i3status'
+let g:netrw_dirhist_1='/home/rade/lionell-dotfiles/.dotfiles/i3/.config'
